@@ -28,9 +28,14 @@ Soy una estudiante de Ingeniería Informática por la Universidad de Málaga. Ah
 
 ---
 
+### Último proyecto
+[Detección de cuentas falsas en Instagram](https://vigvega.github.io/book-lab/)
+
+---
+
 ### Contacto
 
-📫 Para contactarme, puedes visitar mi perfil en ![LinkedIn](www.linkedin.com/in/victoria-garcia-vega)
+📫 Para contactarme, puedes visitar mi perfil en [LinkedIn](www.linkedin.com/in/victoria-garcia-vega)
 <!--
 **vigvega/vigvega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
